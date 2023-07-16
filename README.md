@@ -76,7 +76,7 @@ restart - Restart bot
 - Clone repo:
 
 ```
-git clone https://github.com/Sam-Max/rcmltb rcmltb/ && cd rcmltb
+git clone https://github.com/VampDued/rcmltb rcmltb/ && cd rcmltb
 ```
 
 - For Debian based distros
